@@ -16,6 +16,8 @@ El proyecto del curso es Implementar el objeto Date:
 
 
 <p align="center" >
+
+     <img width="400" heigth="200" src="imagenes/Portada.png">
      <img width="400" heigth="200" src="imagenes/logo.png">
 </p>
 
