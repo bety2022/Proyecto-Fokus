@@ -32,7 +32,7 @@ El proyecto del curso es Implementar el objeto Date:
 ## 🔎 Deploy
 <div align="center">
   <h3>
-    <a href="https://bety2022.github.io/AluraMidi/" >
+    <a href="https://bety2022.github.io/Proyecto-Fokus/" >
       🔗 Visitar la Plataforma del Temporizador Fokus
     </a>
 </div>
